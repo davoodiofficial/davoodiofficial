@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 
 
 ----
-Credit: [ashrafkm](https://github.com/davoodioffical)
+(https://github.com/davoodioffical)
 
-Last Edited on: 08/09/2020
